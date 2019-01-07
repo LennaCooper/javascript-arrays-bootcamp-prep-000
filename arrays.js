@@ -8,7 +8,8 @@ var ingredient6 = "garlic"
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
 function addElementToBeginningOfArray(array, element) {
- const array = [1, ...array]
+ array = [1, ...array]
+ return (array)
 }
 
 
