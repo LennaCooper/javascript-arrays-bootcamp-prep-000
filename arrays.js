@@ -27,3 +27,6 @@ array.push('foo')
 return (array)
 }
 
+function accessElementInArray (array, index) {
+  
+}
